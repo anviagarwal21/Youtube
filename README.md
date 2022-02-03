@@ -1,2 +1,3 @@
 # Youtube
-Python notebook to analyse trending youtube videos
+Analysing trending youtube videos over 3 continents
+Data Cleaning, EDA & Analysis
